@@ -1,4 +1,8 @@
-# 👩🏻‍💻 Carlos Henrique do Vale e Silva
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Carlos%20Vale&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Researcher&descSize=20&descAlignY=60" />
+</p>
+
+## Olá! Eu sou o Carlos 👋
 
 **`Desenvolvedor Full Stack | Pesquisador em IA & ML`**
 
@@ -97,8 +101,9 @@ Desenvolvedor Full-stack e Pesquisador focado na intersecção entre sistemas we
 
 <br />
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
+### ⌚ Tempo de Codificação Semanal (WakaTime)
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 ---
