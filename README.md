@@ -103,7 +103,7 @@ Desenvolvedor Full-stack e Pesquisador focado na intersecção entre sistemas we
 
 ### ⌚ Tempo de Codificação Semanal (WakaTime)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
